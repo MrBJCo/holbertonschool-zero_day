@@ -19,11 +19,12 @@ Repo:
 <br>
 ## Coding fury road
 For the moment we have an empty project directory containing only a README.md. It’s time to code!
+
 - Create these directories at the root of your project: bash, c, js
-- Create these empty files:<br>
-      - **c/c_is_fun.c**<br>
-      - **js/main.js**<br>
-      - **js/index.js**<br>
+- Create these empty files:
+  - c/c_is_fun.c
+  - js/main.js
+  - js/index.js
 - Create a file **bash/best** with these two lines inside: **#!/bin/bash and echo "Best"**
 - Create a file **bash/school** with these two lines inside: **#!/bin/bash and echo "School"**
     Add all these new files to git
