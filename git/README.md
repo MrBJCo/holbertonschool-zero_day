@@ -16,7 +16,7 @@ Repo:
 - GitHub repository: **holbertonschool-zero_day**
 - File: **README.md**
 
-
+<br>
 ## Coding fury road
 For the moment we have an empty project directory containing only a README.md. It’s time to code!
 - Create these directories at the root of your project: bash, c, js
@@ -35,7 +35,7 @@ Repo:
 - GitHub repository: **holbertonschool-zero_day**
 - Directory: **git**
 - File: **bash/best, bash/school, c/c_is_fun.c, js/main.js, js/index.js**
-
+<br>
 ## Collaboration is the base of a company
 A branch is like a copy of your project. It’s used mainly for:
 - adding a feature in development
@@ -66,7 +66,7 @@ Repo:
 - GitHub repository: **holbertonschool-zero_day**
 - Directory: **git**
 - File: **bash/best, bash/school, bash/98**
-
+<br>
 ## Collaboration: be up to date 
 Of course, you can also work on the same branch as your co-workers and it’s best if you keep up to date with their changes.
 
